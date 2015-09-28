@@ -6,6 +6,7 @@ Gabarito oficial [aqui][1]:
 
 
 O arquivo `gabarito_oficial` distribui as respostas por linha em UPPER CASE, siga o mesmo modelo para criar o arquivo `meu_gabarito`, ou seja, com uma alternativa (UPPER CASE) por linha.
+> **nota:** vi agora que é só o gabarito preliminar mas é isso aí :)
 
 **Resultado**
 
