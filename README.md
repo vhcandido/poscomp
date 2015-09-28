@@ -13,9 +13,9 @@ O arquivo `gabarito_oficial` distribui as respostas por linha em UPPER CASE, sig
 - `n: a|b WRONG`, caso incorreta
 
 onde
-- n é o número da questão
-- a é sua alternativa
-- b é a alternativa correta
+- `n` é o número da questão
+- `a` é sua alternativa
+- `b` é a alternativa correta
 
 Ao final há a soma de questões corretas e incorretas.
 
